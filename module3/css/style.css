@@ -1,0 +1,79 @@
+
+	/********** Base styles **********/
+* {
+	font-family: 'Covered By Your Grace', cursive;
+	box-sizing: border-box;
+}
+
+  body {
+    padding-top: 60px;
+  }
+h1 {
+	font-size: 2em;
+	text-align: center;
+	margin: 30px;
+}
+h2 {
+	font-size: 1.25em;
+	float: right;
+	width: 150px;
+	text-align: center;
+	margin: 0;
+	border: 1px solid black;
+}
+.grey {
+	clear: right;
+	border: 1px solid black;
+    background-color: #888888;
+    padding: 0;
+    margin: 10px;
+}
+p {
+	margin: 10px;
+	clear: right;
+}
+a:hover, a:focus {
+	text-decoration: none;
+
+
+
+}
+.navbar-brand {
+  padding-top: 25px;
+
+}
+
+.navbar-brand h1 { /* Restaurant name */
+
+  color: #000000;
+  font-size: 1.25em;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin: 0;
+  line-height: 0;
+}
+#nav-list {
+
+	margin-top: 0;
+	border: 0;
+	margin-bottom: 0;
+	text-align: center;
+	
+}
+.Chicken {
+	margin: 0;
+	color: #000000;
+	background-color: #F06073;
+}
+
+.Beef {
+	margin: 0;
+	background-color: #AA2B32;
+	color: #FFFFFF;
+}
+
+.Shrimp {
+	margin: 0;
+	background-color: #F1B732;
+	color: #000000;
+}
